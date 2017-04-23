@@ -1,0 +1,10 @@
+html {
+  padding: '20px';
+  margin: '20px';
+}
+p {
+  color: '#999999';
+}
+p:hover {
+  color: '#000000';
+}

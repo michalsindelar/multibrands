@@ -1,0 +1,11 @@
+{
+  "theme": {
+
+    "stylus-vars": {
+      "primary-100": "#333333",
+      "primary-500": "#666666",
+      "html-padding": "10px",
+      "html-margin": "10px"
+    }
+  }
+}
