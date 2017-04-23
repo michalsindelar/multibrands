@@ -37,5 +37,5 @@ for var in theme
 
 ---
 
-See (examples)[examples/] folder for working demo.
+See [example](example/) folder for working demo.
 
